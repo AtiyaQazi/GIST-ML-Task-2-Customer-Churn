@@ -44,7 +44,7 @@ Task-2-Customer-Churn/
 │   ├── 01_data_analysis.png
 │   ├── 02_logistic_regression.png
 │   ├── 03_random_forest.png
-│   ├── 04_final_result.png
+    ├── 04_final_result.png
 │   └── 05_model_comparison.png
 │
 ├── .gitignore
@@ -274,8 +274,9 @@ The screenshots demonstrate:
 1. Dataset analysis
 2. Logistic Regression results
 3. Random Forest results
-4. Final Result.png
+4. Final Result
 5. Model comparison
+
 ---
 
 ## Conclusion
@@ -293,6 +294,3 @@ The feature importance analysis also showed that **Num_Sites**, **Years**, and *
 ## Author
 
 **Attia Qamar-un-nisa**
-
-
-
