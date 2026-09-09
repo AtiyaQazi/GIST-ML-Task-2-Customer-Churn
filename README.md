@@ -44,7 +44,8 @@ Task-2-Customer-Churn/
 │   ├── 01_data_analysis.png
 │   ├── 02_logistic_regression.png
 │   ├── 03_random_forest.png
-│   └── 04_model_comparison.png
+│   ├── 04_final_result.png
+│   └── 05_model_comparison.png
 │
 ├── .gitignore
 └── README.md
