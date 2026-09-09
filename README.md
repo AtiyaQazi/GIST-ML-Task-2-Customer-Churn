@@ -274,8 +274,8 @@ The screenshots demonstrate:
 1. Dataset analysis
 2. Logistic Regression results
 3. Random Forest results
-4. Model comparison
-
+4. Final Result.png
+5. Model comparison
 ---
 
 ## Conclusion
