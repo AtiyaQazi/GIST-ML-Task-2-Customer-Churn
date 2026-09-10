@@ -138,5 +138,5 @@ results["F1 Score"].idxmax(),
 "Model" ]
 print("\n FINAL RESULT")
 print("=" * 60)
-print(f "Best Model based on F1 Score: {best_model}")
+print(f"Best Model based on F1 Score: {best_model}")
 print("\n Task 2 Classification Project Completed Successfully!")
